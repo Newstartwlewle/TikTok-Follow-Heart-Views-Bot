@@ -1,0 +1,18 @@
+{
+    "editor.formatOnSave": true,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "eslint.enable": true,
+    "eslint.validate": [
+        "javascript",
+        "typescript"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/node_modules": true,
+        "**/dist": true
+    },
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+}
